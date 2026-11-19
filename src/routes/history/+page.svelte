@@ -50,7 +50,7 @@
 </script>
 
 <svelte:head>
-	<title>History · Type Kana</title>
+	<title>History · SadSha Kana</title>
 </svelte:head>
 
 <div class="main content-width content-padding center">

@@ -1,10 +1,10 @@
 {
-	"name": "type-kana",
+	"name": "sadsha-kana",
 	"version": "1.0.0",
-	"homepage": "https://github.com/furudean/type-kana#readme",
+	"homepage": "https://github.com/fnjlabs-arch/type-kana#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/furudean/type-kana.git"
+		"url": "git+https://github.com/fnjlabs-arch/type-kana.git"
 	},
 	"author": "furudean (https://github.com/furudean)",
 	"type": "module",

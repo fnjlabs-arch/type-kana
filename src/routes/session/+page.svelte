@@ -140,7 +140,7 @@
 </script>
 
 <svelte:head>
-	<title>Session · Type Kana</title>
+	<title>Session · SadSha Kana</title>
 </svelte:head>
 
 <svelte:window onkeydown={handleKeydown} />

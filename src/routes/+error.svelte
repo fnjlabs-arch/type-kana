@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>{page.error?.message || page.status} · Type Kana</title>
+	<title>{page.error?.message || page.status} · SadSha Kana</title>
 </svelte:head>
 
 <h1>Error {page.status}</h1>

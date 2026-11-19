@@ -13,14 +13,14 @@
 </script>
 
 <svelte:head>
-	<title>Type Kana</title>
+	<title>SadSha Kana</title>
 </svelte:head>
 
 <Header {stargazers} />
 <section class="content-padding">
 	<div class="content-width center">
 		<p>
-			Type Kana is a quiz app to help you learn hiragana and katakana, the
+			SadSha Kana is a quiz app to help you learn hiragana and katakana, the
 			Japanese syllabaries.
 		</p>
 

@@ -15,7 +15,7 @@
 
 <section class="header content-padding">
 	<div class="content-width center">
-		<h1><Logo size="2em" />Type Kana</h1>
+		<h1><Logo size="2em" />SadSha Kana</h1>
 		<ul>
 			<li>
 				<a
@@ -30,7 +30,7 @@
 			</li>
 			<li>
 				<a
-					href="https://github.com/furudean/type-kana"
+					href="https://github.com/fnjlabs-arch/type-kana"
 					target="_blank"
 					rel="nofollow"
 					class="menu-link"
@@ -46,7 +46,7 @@
 			</li>
 			<li>
 				<a
-					href="https://github.com/furudean/type-kana/commit/{commitHashLong}"
+					href="https://github.com/fnjlabs-arch/type-kana/commit/{commitHashLong}"
 					target="_blank"
 					rel="noopener"
 					title="Current build commit (GitHub)"

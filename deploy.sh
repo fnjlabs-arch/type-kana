@@ -8,9 +8,9 @@ npm run build
 rsync -zhave ssh --progress build himawari.fun:/opt/node
 ssh himawari.fun "
     cd /opt/node && \
-    systemctl stop type-kana.service && \
-    rm -rf type-kana && \
-    mv build type-kana && \
-    chown -R node:node type-kana && \
-    systemctl start type-kana.service
+    systemctl stop sadsha-kana.service && \
+    rm -rf sadsha-kana && \
+    mv build sadsha-kana && \
+    chown -R node:node sadsha-kana && \
+    systemctl start sadsha-kana.service
 "

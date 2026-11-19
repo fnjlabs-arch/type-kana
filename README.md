@@ -1,10 +1,10 @@
-# [Type Kana](https://type-kana.himawari.fun/)
+# [SadSha Kana](https://github.com/fnjlabs-arch/type-kana/)
 
 <img src="assets/logo.svg" 
   width="128" 
   height="128" 
   align="right" 
-  alt="Type Kana logo" />
+  alt="SadSha Kana logo" />
 
 A quiz app to help you learn
 <ruby>
@@ -15,7 +15,7 @@ and
 カタカナ<rp>(</rp><rt>katakana</rt><rp>)</rp>
 </ruby>, the Japanese syllabaries.
 
-If you are just looking to play, a hosted version of whatever is currently on the `main` branch should be available [here](https://type-kana.himawari.fun/). No promises of uptime though!
+If you are just looking to play, a hosted version of whatever is currently on the `main` branch should be available [here](https://github.com/fnjlabs-arch/type-kana/). No promises of uptime though!
 
 ## Quick start
 

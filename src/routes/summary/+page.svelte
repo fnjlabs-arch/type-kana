@@ -62,7 +62,7 @@
 </script>
 
 <svelte:head>
-	<title>Summary · Type Kana</title>
+	<title>Summary · SadSha Kana</title>
 </svelte:head>
 
 <Tooltip />

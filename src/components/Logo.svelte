@@ -7,7 +7,7 @@
 </script>
 
 <svg
-	aria-label="Type Kana logotype"
+	aria-label="SadSha Kana logotype"
 	version="1.1"
 	width={size}
 	height={size}
